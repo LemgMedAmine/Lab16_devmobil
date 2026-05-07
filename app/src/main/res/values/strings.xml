@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Service Chronomètre Java</string>
+    <string name="screen_title">Chronomètre</string>
+    <string name="screen_subtitle">Service Android</string>
+    <string name="timer_label">Temps écoulé</string>
+    <string name="status_ready">Service prêt</string>
+    <string name="status_running">Service en cours</string>
+    <string name="status_stopped">Service arrêté</string>
+    <string name="start_service">Démarrer</string>
+    <string name="stop_service">Arrêter</string>
+</resources>
